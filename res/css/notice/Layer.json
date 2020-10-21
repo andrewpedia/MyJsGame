@@ -1,0 +1,943 @@
+{
+  "ID": "0cca2805-cb4e-49a9-bffc-647cc69c67c2",
+  "Version": "3.10.0.0",
+  "Name": "Layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_bg_common_830x594.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -10.0,
+              "Y": -12.0
+            },
+            "Scale": {
+              "ScaleX": 0.9976,
+              "ScaleY": 1.0825
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0124,
+              "Y": -0.0197
+            },
+            "PreSize": {
+              "X": 1.026,
+              "Y": 0.977
+            },
+            "LeftMargin": -10.0,
+            "RightMargin": -11.0,
+            "TopMargin": 26.0,
+            "BottomMargin": -12.0,
+            "Tag": 4,
+            "ActionTag": 1856936339,
+            "Size": {
+              "X": 830.0,
+              "Y": 594.0
+            },
+            "Name": "tab_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_common039.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 109.0,
+              "Y": 275.4999
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1347,
+              "Y": 0.4531
+            },
+            "PreSize": {
+              "X": 0.3214,
+              "Y": 0.7566
+            },
+            "LeftMargin": -21.0,
+            "RightMargin": 570.0,
+            "TopMargin": 102.5001,
+            "BottomMargin": 45.4999,
+            "Tag": 37,
+            "ActionTag": 201182658,
+            "Size": {
+              "X": 260.0,
+              "Y": 460.0
+            },
+            "Name": "hall_common039_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 40,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 797.495,
+              "Y": 589.9994
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9858,
+              "Y": 0.9704
+            },
+            "PreSize": {
+              "X": 0.0865,
+              "Y": 0.1151
+            },
+            "LeftMargin": 762.495,
+            "RightMargin": -23.495,
+            "TopMargin": -16.9994,
+            "BottomMargin": 554.9994,
+            "Tag": 5,
+            "ActionTag": -1898869144,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_mail000.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 405.0,
+              "Y": 566.9988
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5006,
+              "Y": 0.9326
+            },
+            "PreSize": {
+              "X": 0.2373,
+              "Y": 0.0822
+            },
+            "LeftMargin": 309.0,
+            "RightMargin": 308.0,
+            "TopMargin": 16.0012,
+            "BottomMargin": 541.9988,
+            "Tag": 6,
+            "ActionTag": 1534357779,
+            "Size": {
+              "X": 192.0,
+              "Y": 50.0
+            },
+            "Name": "ann_title_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_ann_g.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_ann.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_ann_g.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_ann.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_ann_g.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5027,
+              "ScaleY": 0.5132
+            },
+            "Position": {
+              "X": 106.0,
+              "Y": 481.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.131,
+              "Y": 0.7911
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 10.9968,
+            "RightMargin": 609.0032,
+            "TopMargin": 90.0038,
+            "BottomMargin": 441.9962,
+            "Tag": 7,
+            "ActionTag": 163833950,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "CheckBox_0",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_customer_g.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_customer.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_customer_g.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_customer.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_customer_g.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.0,
+              "Y": 393.9987
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.131,
+              "Y": 0.648
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 11.5,
+            "RightMargin": 608.5,
+            "TopMargin": 176.0013,
+            "BottomMargin": 355.9987,
+            "Tag": 8,
+            "ActionTag": 1881072091,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "CheckBox_1",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 200.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2472,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 200.0,
+            "RightMargin": 609.0,
+            "TopMargin": 608.0,
+            "Tag": 9,
+            "Children": [
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 9.0006,
+                  "Y": 11.2501
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 9.0006,
+                "RightMargin": -598.0006,
+                "TopMargin": -522.5002,
+                "BottomMargin": 11.2501,
+                "Tag": 22,
+                "ActionTag": -2073816137,
+                "Size": {
+                  "X": 589.0,
+                  "Y": 511.2501
+                },
+                "Name": "listView",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": -1069487766,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "content_0",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 200.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2472,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 200.0,
+            "RightMargin": 609.0,
+            "TopMargin": 608.0,
+            "Tag": 10,
+            "Children": [
+              {
+                "FontSize": 28,
+                "LabelText": "请输入您想咨询的问题",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 303.0,
+                  "Y": 502.9377
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 241,
+                  "G": 63,
+                  "B": 8
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 163.0,
+                "RightMargin": -443.0,
+                "TopMargin": -516.9377,
+                "BottomMargin": 488.9377,
+                "Tag": 93,
+                "ActionTag": -213629633,
+                "Size": {
+                  "X": 280.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ann_big_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 303.0022,
+                  "Y": 331.9987
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 15.5022,
+                "RightMargin": -590.5022,
+                "TopMargin": -474.4987,
+                "BottomMargin": 189.4987,
+                "Tag": 94,
+                "ActionTag": 1036181145,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 285.0
+                },
+                "Name": "ann_big_bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ann_desc.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 297.0096,
+                  "Y": 150.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.9904,
+                "RightMargin": -595.0096,
+                "TopMargin": -179.9995,
+                "BottomMargin": 121.9995,
+                "Tag": 95,
+                "ActionTag": -2005636612,
+                "Size": {
+                  "X": 596.0,
+                  "Y": 58.0
+                },
+                "Name": "ann_desc_14",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "hall_common020.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "hall_common020.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "hall_common020.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 176,
+                "Scale9Height": 62,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 317.0037,
+                  "Y": 61.2501
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 214.0037,
+                "RightMargin": -420.0037,
+                "TopMargin": -103.2501,
+                "BottomMargin": 19.2501,
+                "Tag": 96,
+                "ActionTag": -2125043287,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 206.0,
+                  "Y": 84.0
+                },
+                "Name": "submitBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ctfk.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ctfk.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ctfk.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 105,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.9985,
+                  "Y": 55.2501
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 19.4985,
+                "RightMargin": -154.4985,
+                "TopMargin": -108.2501,
+                "BottomMargin": 2.2501,
+                "Tag": 63,
+                "ActionTag": 601778178,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 106.0
+                },
+                "Name": "ctfkBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1519373858,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "content_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_vx_g.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_vx_g.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_vx_g.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.0,
+              "Y": 308.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.131,
+              "Y": 0.5066
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 11.5,
+            "RightMargin": 608.5,
+            "TopMargin": 262.0,
+            "BottomMargin": 270.0,
+            "Tag": 26,
+            "ActionTag": -530394163,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "btn_wx",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_qq_g.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_qq_g.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "ann_btn_qq_g.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.0,
+              "Y": 222.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.131,
+              "Y": 0.3651
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 11.5,
+            "RightMargin": 608.5,
+            "TopMargin": 348.0,
+            "BottomMargin": 184.0,
+            "Tag": 27,
+            "ActionTag": -403025366,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "btn_qq",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 809.0,
+          "Y": 608.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ann_big_bg.png",
+        "ann_btn_ann.png",
+        "ann_btn_ann_g.png",
+        "ann_btn_customer.png",
+        "ann_btn_customer_g.png",
+        "ann_btn_qq_g.png",
+        "ann_btn_vx_g.png",
+        "ann_desc.png",
+        "ctfk.png",
+        "hall_bg_common_830x594.png",
+        "hall_common020.png",
+        "hall_common036.png",
+        "hall_common039.png",
+        "hall_mail000.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

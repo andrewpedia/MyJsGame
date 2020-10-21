@@ -1,0 +1,41 @@
+
+Yurubaiwan.png
+size: 136,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 2, 89
+  size: 132, 111
+  orig: 132, 111
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: true
+  xy: 51, 43
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: true
+  xy: 2, 2
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: true
+  xy: 51, 2
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 2, 41
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

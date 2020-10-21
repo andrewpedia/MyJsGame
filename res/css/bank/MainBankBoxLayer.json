@@ -1,0 +1,627 @@
+{
+  "ID": "08b110ba-afa4-4b8b-b972-f746d19dcbba",
+  "Version": "3.10.0.0",
+  "Name": "MainBankBoxLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 40,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_bg_common_830x594.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -9.9995,
+              "Y": -12.0001
+            },
+            "Scale": {
+              "ScaleX": 0.9976,
+              "ScaleY": 1.0825
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0124,
+              "Y": -0.0197
+            },
+            "PreSize": {
+              "X": 1.026,
+              "Y": 0.977
+            },
+            "LeftMargin": -9.9995,
+            "RightMargin": -11.0005,
+            "TopMargin": 26.0001,
+            "BottomMargin": -12.0001,
+            "Tag": 41,
+            "ActionTag": 1112152003,
+            "Size": {
+              "X": 830.0,
+              "Y": 594.0
+            },
+            "Name": "tab_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_common039.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 107.9999,
+              "Y": 274.5001
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1335,
+              "Y": 0.4515
+            },
+            "PreSize": {
+              "X": 0.3214,
+              "Y": 0.7566
+            },
+            "LeftMargin": -22.0001,
+            "RightMargin": 571.0001,
+            "TopMargin": 103.4999,
+            "BottomMargin": 44.5001,
+            "Tag": 176,
+            "ActionTag": 78369693,
+            "Size": {
+              "X": 260.0,
+              "Y": 460.0
+            },
+            "Name": "hall_common039_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 40,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 793.0,
+              "Y": 595.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9802,
+              "Y": 0.9794
+            },
+            "PreSize": {
+              "X": 0.0865,
+              "Y": 0.1151
+            },
+            "LeftMargin": 758.0,
+            "RightMargin": -19.0,
+            "TopMargin": -22.5,
+            "BottomMargin": 560.5,
+            "Tag": 42,
+            "ActionTag": 931023354,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_safebox008.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 426.0,
+              "Y": 570.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5266,
+              "Y": 0.9375
+            },
+            "PreSize": {
+              "X": 0.1805,
+              "Y": 0.0855
+            },
+            "LeftMargin": 353.0,
+            "RightMargin": 310.0,
+            "TopMargin": 12.0,
+            "BottomMargin": 544.0,
+            "Tag": 43,
+            "ActionTag": 395869455,
+            "Size": {
+              "X": 146.0,
+              "Y": 52.0
+            },
+            "Name": "bk_title_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_save.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_save.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bk_btn_save.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0,
+              "Y": 484.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1298,
+              "Y": 0.7961
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": 609.5,
+            "TopMargin": 86.0,
+            "BottomMargin": 446.0,
+            "Tag": 44,
+            "ActionTag": -1831940749,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "saveBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_get.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_get.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bk_btn_get.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0,
+              "Y": 406.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1298,
+              "Y": 0.6678
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": 609.5,
+            "TopMargin": 164.0,
+            "BottomMargin": 368.0,
+            "Tag": 45,
+            "ActionTag": 1268400206,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "getBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_transfer.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_transfer.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bk_btn_transfer.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0,
+              "Y": 329.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1298,
+              "Y": 0.5411
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": 609.5,
+            "TopMargin": 241.0,
+            "BottomMargin": 291.0,
+            "Tag": 38,
+            "ActionTag": -609150198,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "shiftBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_password.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_password.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bk_btn_password.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0,
+              "Y": 251.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1298,
+              "Y": 0.4128
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": 609.5,
+            "TopMargin": 319.0,
+            "BottomMargin": 213.0,
+            "Tag": 39,
+            "ActionTag": 2089045796,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "pwBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_detail.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bk_flag_detail.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bk_btn_detail.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 159,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0,
+              "Y": 172.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1298,
+              "Y": 0.2829
+            },
+            "PreSize": {
+              "X": 0.2336,
+              "Y": 0.125
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": 609.5,
+            "TopMargin": 398.0,
+            "BottomMargin": 134.0,
+            "Tag": 41,
+            "ActionTag": 1095156593,
+            "Size": {
+              "X": 189.0,
+              "Y": 76.0
+            },
+            "Name": "deBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 809.0,
+          "Y": 608.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bk_btn_detail.png",
+        "bk_btn_get.png",
+        "bk_btn_password.png",
+        "bk_btn_save.png",
+        "bk_btn_transfer.png",
+        "bk_flag_detail.png",
+        "bk_flag_get.png",
+        "bk_flag_password.png",
+        "bk_flag_save.png",
+        "bk_flag_transfer.png",
+        "hall_bg_common_830x594.png",
+        "hall_common036.png",
+        "hall_common039.png",
+        "hall_safebox008.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,154 @@
+{
+  "ID": "5cfc613f-eb23-43ec-b70d-9958c5f88a9a",
+  "Version": "3.10.0.0",
+  "Name": "Main",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_bg_common_830x594.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 458.9999,
+              "Y": 339.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4781,
+              "Y": 0.5297
+            },
+            "PreSize": {
+              "X": 0.8646,
+              "Y": 0.9281
+            },
+            "LeftMargin": 43.9999,
+            "RightMargin": 86.0001,
+            "TopMargin": 4.0,
+            "BottomMargin": 42.0,
+            "Tag": 4,
+            "ActionTag": 693463492,
+            "Size": {
+              "X": 830.0,
+              "Y": 594.0
+            },
+            "Name": "hall_bg_common_830x594_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_common020.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_common020.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_common020.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 176,
+            "Scale9Height": 62,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.9701,
+              "Y": 190.9923
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4791,
+              "Y": 0.2984
+            },
+            "PreSize": {
+              "X": 0.2146,
+              "Y": 0.1312
+            },
+            "LeftMargin": 356.9701,
+            "RightMargin": 397.0299,
+            "TopMargin": 407.0078,
+            "BottomMargin": 148.9923,
+            "Tag": 5,
+            "ActionTag": -1720514066,
+            "Size": {
+              "X": 206.0,
+              "Y": 84.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "hall_bg_common_830x594.png",
+        "hall_common020.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

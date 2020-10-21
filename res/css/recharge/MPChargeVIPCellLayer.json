@@ -1,0 +1,246 @@
+{
+  "ID": "c52f9ffb-e6c0-4cc2-acab-cf14e6fafdbf",
+  "Version": "3.10.0.0",
+  "Name": "MPChargeVIPCellLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 201,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "charge_proxy_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 202,
+            "ActionTag": -1005365705,
+            "Size": {
+              "X": 210.0,
+              "Y": 130.0
+            },
+            "Name": "charge_proxy_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "charge_online_num.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "charge_online_num.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "charge_online_num.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 124,
+            "Scale9Height": 59,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 104.5,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4976,
+              "Y": 0.3923
+            },
+            "PreSize": {
+              "X": 0.7333,
+              "Y": 0.6231
+            },
+            "LeftMargin": 27.5,
+            "RightMargin": 28.5,
+            "TopMargin": 38.5,
+            "BottomMargin": 10.5,
+            "Tag": 203,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "charge_proxy_charge_label.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 74.5,
+                  "Y": 40.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4838,
+                  "Y": 0.4938
+                },
+                "PreSize": {
+                  "X": 0.4091,
+                  "Y": 0.4938
+                },
+                "LeftMargin": 43.0,
+                "RightMargin": 48.0,
+                "TopMargin": 21.0,
+                "BottomMargin": 20.0,
+                "Tag": 204,
+                "ActionTag": -1648665057,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 40.0
+                },
+                "Name": "charge_proxy_charge_label_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -531553805,
+            "Size": {
+              "X": 154.0,
+              "Y": 81.0
+            },
+            "Name": "submitBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "娜娜官方秒从（支持花呗\n信用卡）",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.5,
+              "Y": 106.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5024,
+              "Y": 0.8192
+            },
+            "PreSize": {
+              "X": 0.9905,
+              "Y": 0.3308
+            },
+            "LeftMargin": 1.5,
+            "RightMargin": 0.5,
+            "TopMargin": 2.0,
+            "BottomMargin": 85.0,
+            "Tag": 205,
+            "ActionTag": 787367670,
+            "Size": {
+              "X": 208.0,
+              "Y": 43.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 210.0,
+          "Y": 130.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "charge_online_num.png",
+        "charge_proxy_bg.png",
+        "charge_proxy_charge_label.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

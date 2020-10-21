@@ -1,0 +1,314 @@
+
+DLJM_Char.png
+size: 1009,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DLJM_DL
+  rotate: true
+  xy: 941, 112
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+DLJM_G_Arm_L_01
+  rotate: true
+  xy: 846, 71
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+DLJM_G_Arm_L_02
+  rotate: true
+  xy: 784, 100
+  size: 109, 60
+  orig: 109, 60
+  offset: 0, 0
+  index: -1
+DLJM_G_Arm_R_01
+  rotate: true
+  xy: 685, 73
+  size: 40, 95
+  orig: 40, 95
+  offset: 0, 0
+  index: -1
+DLJM_G_Arm_R_02
+  rotate: true
+  xy: 475, 9
+  size: 34, 94
+  orig: 34, 94
+  offset: 0, 0
+  index: -1
+DLJM_G_Body
+  rotate: true
+  xy: 468, 111
+  size: 102, 166
+  orig: 102, 166
+  offset: 0, 0
+  index: -1
+DLJM_G_ErHuan
+  rotate: false
+  xy: 763, 7
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+DLJM_G_Eye_GaoGuang
+  rotate: true
+  xy: 246, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+DLJM_G_HDJ_01
+  rotate: true
+  xy: 974, 216
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+DLJM_G_HDJ_02
+  rotate: true
+  xy: 727, 11
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_01
+  rotate: false
+  xy: 727, 34
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_02
+  rotate: false
+  xy: 388, 136
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_03
+  rotate: true
+  xy: 414, 2
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_04_1
+  rotate: true
+  xy: 571, 4
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_04_2
+  rotate: false
+  xy: 926, 8
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_05
+  rotate: true
+  xy: 636, 74
+  size: 139, 47
+  orig: 139, 47
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_06
+  rotate: false
+  xy: 414, 45
+  size: 146, 64
+  orig: 146, 64
+  offset: 0, 0
+  index: -1
+DLJM_G_Hair_07
+  rotate: true
+  xy: 2, 2
+  size: 121, 242
+  orig: 121, 242
+  offset: 0, 0
+  index: -1
+DLJM_G_Hand_01
+  rotate: false
+  xy: 685, 2
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+DLJM_G_Hand_02
+  rotate: true
+  xy: 974, 200
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+DLJM_G_Hand_R
+  rotate: false
+  xy: 928, 45
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+DLJM_G_Head
+  rotate: false
+  xy: 846, 107
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+DLJM_G_JM_Down
+  rotate: false
+  xy: 388, 125
+  size: 61, 9
+  orig: 61, 9
+  offset: 0, 0
+  index: -1
+DLJM_G_JM_UP
+  rotate: false
+  xy: 775, 50
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+DLJM_G_Leg_L_01
+  rotate: false
+  xy: 222, 125
+  size: 164, 56
+  orig: 164, 56
+  offset: 0, 0
+  index: -1
+DLJM_G_Leg_L_02
+  rotate: true
+  xy: 468, 215
+  size: 65, 221
+  orig: 65, 221
+  offset: 0, 0
+  index: -1
+DLJM_G_Leg_R_01
+  rotate: false
+  xy: 691, 211
+  size: 178, 69
+  orig: 178, 69
+  offset: 0, 0
+  index: -1
+DLJM_G_Leg_R_02
+  rotate: true
+  xy: 246, 14
+  size: 109, 166
+  orig: 109, 166
+  offset: 0, 0
+  index: -1
+DLJM_G_MM
+  rotate: false
+  xy: 845, 58
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+DLJM_G_Neck
+  rotate: true
+  xy: 782, 66
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+DLJM_G_Nose
+  rotate: false
+  xy: 908, 26
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+DLJM_G_Pai_01
+  rotate: false
+  xy: 222, 183
+  size: 244, 97
+  orig: 244, 97
+  offset: 0, 0
+  index: -1
+DLJM_G_Pai_02
+  rotate: false
+  xy: 2, 125
+  size: 218, 155
+  orig: 218, 155
+  offset: 0, 0
+  index: -1
+DLJM_G_TuEr
+  rotate: false
+  xy: 871, 200
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+DLJM_G_Xiong_L
+  rotate: false
+  xy: 963, 15
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+DLJM_G_Xiong_R
+  rotate: false
+  xy: 685, 17
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+DLJM_G_YB
+  rotate: false
+  xy: 775, 26
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+DLJM_G_YF_01
+  rotate: true
+  xy: 653, 3
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+DLJM_G_YF_02
+  rotate: true
+  xy: 886, 22
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+DLJM_G_YZ_L
+  rotate: true
+  xy: 636, 58
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+DLJM_G_YZ_R
+  rotate: true
+  xy: 908, 52
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+DLJM_JB_01
+  rotate: false
+  xy: 844, 20
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+DLJM_JB_02
+  rotate: true
+  xy: 562, 51
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+DLJM_SZ
+  rotate: false
+  xy: 685, 115
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1

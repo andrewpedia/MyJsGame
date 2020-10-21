@@ -1,0 +1,29 @@
+{
+"skeleton": { "hash": "BsHCk1/tSoeum+f5CHhh39/13eE", "spine": "3.6.52", "width": 30, "height": 30, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "common_hongdian", "bone": "root", "attachment": "common_hongdian" }
+],
+"skins": {
+	"default": {
+		"common_hongdian": {
+			"common_hongdian": { "width": 30, "height": 30 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.2, "y": 1.2 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

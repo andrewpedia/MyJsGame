@@ -1,0 +1,41 @@
+
+Dating_JDnn.png
+size: 934,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: false
+  xy: 596, 44
+  size: 243, 261
+  orig: 243, 261
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: true
+  xy: 344, 33
+  size: 272, 250
+  orig: 272, 250
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 5
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: true
+  xy: 841, 109
+  size: 196, 91
+  orig: 196, 91
+  offset: 0, 0
+  index: -1
+images/jiyi
+  rotate: true
+  xy: 344, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1

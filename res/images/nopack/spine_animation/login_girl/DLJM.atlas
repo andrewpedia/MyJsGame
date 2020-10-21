@@ -1,0 +1,544 @@
+
+DLJM.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DLJM_Back
+  rotate: false
+  xy: 2, 573
+  size: 981, 449
+  orig: 981, 449
+  offset: 0, 0
+  index: -1
+DLJM_Front_Hand
+  rotate: true
+  xy: 2, 33
+  size: 387, 449
+  orig: 387, 449
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_01
+  rotate: false
+  xy: 552, 8
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_00
+  rotate: false
+  xy: 985, 460
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_01
+  rotate: false
+  xy: 985, 424
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Body
+  rotate: false
+  xy: 700, 175
+  size: 260, 245
+  orig: 260, 245
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Hand_L_01
+  rotate: true
+  xy: 700, 33
+  size: 140, 284
+  orig: 140, 284
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Hand_L_02
+  rotate: false
+  xy: 453, 25
+  size: 127, 78
+  orig: 127, 78
+  offset: 0, 0
+  index: -1
+DLJM_MGN_JieMao
+  rotate: false
+  xy: 448, 5
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Mouth
+  rotate: false
+  xy: 398, 6
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Ya
+  rotate: false
+  xy: 957, 22
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+DLJM_NM_Hand_L
+  rotate: false
+  xy: 962, 177
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+DLJM_NM_Hand_R
+  rotate: true
+  xy: 582, 41
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+DLJM_Pai_03_S
+  rotate: true
+  xy: 962, 274
+  size: 146, 48
+  orig: 146, 48
+  offset: 0, 0
+  index: -1
+DLJM_Pai_04_S
+  rotate: false
+  xy: 582, 17
+  size: 109, 22
+  orig: 109, 22
+  offset: 0, 0
+  index: -1
+DLJM_ZhuoZi
+  rotate: false
+  xy: 2, 422
+  size: 981, 149
+  orig: 981, 149
+  offset: 0, 0
+  index: -1
+DLJM_guang02
+  rotate: false
+  xy: 453, 105
+  size: 245, 315
+  orig: 245, 315
+  offset: 0, 0
+  index: -1
+Yan/Yan_00
+  rotate: true
+  xy: 2, 3
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_02
+  rotate: false
+  xy: 985, 892
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_04
+  rotate: true
+  xy: 134, 3
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_06
+  rotate: false
+  xy: 985, 760
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_08
+  rotate: true
+  xy: 266, 3
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_10
+  rotate: false
+  xy: 985, 628
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_12
+  rotate: false
+  xy: 985, 496
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_14
+  rotate: false
+  xy: 986, 45
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_16
+  rotate: true
+  xy: 693, 3
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_18
+  rotate: true
+  xy: 825, 3
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+ZJM_Character_Xing
+  rotate: true
+  xy: 986, 8
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+
+DLJM2.png
+size: 604,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DLJM_CM_01
+  rotate: false
+  xy: 249, 208
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+DLJM_CM_01_S
+  rotate: true
+  xy: 472, 30
+  size: 88, 25
+  orig: 88, 25
+  offset: 0, 0
+  index: -1
+DLJM_CM_02
+  rotate: false
+  xy: 394, 120
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+DLJM_CM_03
+  rotate: false
+  xy: 249, 253
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_02
+  rotate: true
+  xy: 473, 120
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_03
+  rotate: true
+  xy: 396, 33
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_04
+  rotate: false
+  xy: 499, 84
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_05
+  rotate: false
+  xy: 499, 48
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_06
+  rotate: false
+  xy: 529, 100
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_07
+  rotate: false
+  xy: 529, 64
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_08
+  rotate: false
+  xy: 559, 100
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_BoZi_02/DLJM_MGN_BoZi_02_09
+  rotate: false
+  xy: 559, 64
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Face
+  rotate: false
+  xy: 406, 477
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Hair_01
+  rotate: false
+  xy: 229, 452
+  size: 175, 150
+  orig: 175, 150
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Hair_02
+  rotate: false
+  xy: 2, 341
+  size: 225, 261
+  orig: 225, 261
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Hand_R_01
+  rotate: false
+  xy: 229, 347
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Hand_R_02
+  rotate: true
+  xy: 531, 362
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Jiao_L
+  rotate: false
+  xy: 396, 63
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Jiao_R
+  rotate: false
+  xy: 491, 150
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Pai
+  rotate: true
+  xy: 531, 179
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Wei
+  rotate: true
+  xy: 159, 71
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Xiong_L
+  rotate: true
+  xy: 245, 44
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+DLJM_MGN_Xiong_R
+  rotate: true
+  xy: 159, 2
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+DLJM_MGN_YanZhu
+  rotate: false
+  xy: 399, 175
+  size: 90, 26
+  orig: 90, 26
+  offset: 0, 0
+  index: -1
+DLJM_MGN_YanZhu_02
+  rotate: true
+  xy: 444, 28
+  size: 90, 26
+  orig: 90, 26
+  offset: 0, 0
+  index: -1
+DLJM_NM_Arm_L
+  rotate: true
+  xy: 531, 407
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+DLJM_NM_Body
+  rotate: false
+  xy: 2, 200
+  size: 215, 139
+  orig: 215, 139
+  offset: 0, 0
+  index: -1
+DLJM_NM_Head
+  rotate: false
+  xy: 2, 64
+  size: 155, 134
+  orig: 155, 134
+  offset: 0, 0
+  index: -1
+DLJM_Pai_01
+  rotate: false
+  xy: 531, 136
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+DLJM_Pai_02
+  rotate: false
+  xy: 532, 262
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+DLJM_Pai_02_S
+  rotate: false
+  xy: 243, 15
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+DLJM_Pai_03
+  rotate: false
+  xy: 406, 353
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+DLJM_Pai_04
+  rotate: true
+  xy: 337, 102
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+DLJM_YanGuang
+  rotate: false
+  xy: 336, 52
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+DLJM_guang01
+  rotate: false
+  xy: 245, 116
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Yan/Yan_20
+  rotate: true
+  xy: 2, 34
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_22
+  rotate: true
+  xy: 2, 4
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_24
+  rotate: false
+  xy: 533, 472
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_26
+  rotate: false
+  xy: 563, 472
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_28
+  rotate: false
+  xy: 219, 209
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_30
+  rotate: false
+  xy: 370, 320
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_32
+  rotate: true
+  xy: 400, 323
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_34
+  rotate: true
+  xy: 400, 293
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_36
+  rotate: false
+  xy: 339, 215
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_38
+  rotate: false
+  xy: 369, 188
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_40
+  rotate: true
+  xy: 399, 263
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_42
+  rotate: true
+  xy: 399, 233
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+Yan/Yan_44
+  rotate: true
+  xy: 399, 203
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,408 @@
+{
+  "ID": "b5d89b0c-35b3-4a7e-9cb8-dd076209dce3",
+  "Version": "3.10.0.0",
+  "Name": "cell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 16,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ann_cell.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 12,
+                "ActionTag": 259679427,
+                "Size": {
+                  "X": 589.0,
+                  "Y": 167.0
+                },
+                "Name": "ann_cell_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ann_girl.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 3.75,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0064,
+                  "Y": 0.0898
+                },
+                "PreSize": {
+                  "X": 0.2377,
+                  "Y": 0.6886
+                },
+                "LeftMargin": 3.75,
+                "RightMargin": 445.25,
+                "TopMargin": 37.0,
+                "BottomMargin": 15.0,
+                "Tag": 13,
+                "ActionTag": -1130108056,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 115.0
+                },
+                "Name": "ann_girl_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "《炫凯网络》",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 26.0624,
+                  "Y": 144.0625
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0442,
+                  "Y": 0.8626
+                },
+                "PreSize": {
+                  "X": 0.2037,
+                  "Y": 0.1198
+                },
+                "LeftMargin": 26.0624,
+                "RightMargin": 442.9376,
+                "TopMargin": 12.9375,
+                "BottomMargin": 134.0625,
+                "Tag": 14,
+                "ActionTag": -1321731781,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 20.0
+                },
+                "Name": "titleLabel",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "2018/11/11",
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 562.5626,
+                  "Y": 145.0627
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9551,
+                  "Y": 0.8686
+                },
+                "PreSize": {
+                  "X": 0.3531,
+                  "Y": 0.1377
+                },
+                "LeftMargin": 354.5626,
+                "RightMargin": 26.4374,
+                "TopMargin": 10.4373,
+                "BottomMargin": 133.5627,
+                "Tag": 15,
+                "ActionTag": 55257237,
+                "Size": {
+                  "X": 208.0,
+                  "Y": 23.0
+                },
+                "Name": "dateLabel",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ann_readed.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 505.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8574,
+                  "Y": 0.3892
+                },
+                "PreSize": {
+                  "X": 0.1375,
+                  "Y": 0.485
+                },
+                "LeftMargin": 464.5,
+                "RightMargin": 43.5,
+                "TopMargin": 61.5,
+                "BottomMargin": 24.5,
+                "Tag": 17,
+                "ActionTag": -94214959,
+                "Size": {
+                  "X": 81.0,
+                  "Y": 81.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ann_readed",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ann_gained.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 505.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8574,
+                  "Y": 0.3892
+                },
+                "PreSize": {
+                  "X": 0.1698,
+                  "Y": 0.485
+                },
+                "LeftMargin": 455.0,
+                "RightMargin": 34.0,
+                "TopMargin": 61.5,
+                "BottomMargin": 24.5,
+                "Tag": 18,
+                "ActionTag": 1985018085,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 81.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ann_gained",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "[交互] -[test001/50000034] 向您打赏 11000 游戏币(含税收 220),注意查收\n",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.0594,
+                  "Y": 82.936
+                },
+                "Scale": {
+                  "ScaleX": 0.9478,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 8,
+                  "G": 241,
+                  "B": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5943,
+                  "Y": 0.4966
+                },
+                "PreSize": {
+                  "X": 0.7953,
+                  "Y": 0.4072
+                },
+                "LeftMargin": 115.8391,
+                "RightMargin": 4.7203,
+                "TopMargin": 50.064,
+                "BottomMargin": 48.9361,
+                "Tag": 21,
+                "ActionTag": -2102511937,
+                "Size": {
+                  "X": 468.4407,
+                  "Y": 67.9999
+                },
+                "Name": "Text_4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 444386630,
+            "Size": {
+              "X": 589.0,
+              "Y": 167.0
+            },
+            "Name": "Panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 589.0,
+          "Y": 167.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ann_cell.png",
+        "ann_gained.png",
+        "ann_girl.png",
+        "ann_readed.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,331 @@
+{
+  "ID": "1eca3b8e-5928-49ac-9fee-4c1f7a7df6bb",
+  "Version": "3.10.0.0",
+  "Name": "MPRegisterGiveGoldLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_reward000.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7094,
+              "Y": 0.6375
+            },
+            "LeftMargin": 186.0,
+            "RightMargin": 186.0,
+            "TopMargin": 130.5,
+            "BottomMargin": 130.5,
+            "Tag": 4,
+            "ActionTag": 2055495886,
+            "Size": {
+              "X": 908.0,
+              "Y": 459.0
+            },
+            "Name": "bgSprite",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 40,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1028.0,
+              "Y": 505.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8031,
+              "Y": 0.7014
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 993.0,
+            "RightMargin": 217.0,
+            "TopMargin": 180.0,
+            "BottomMargin": 470.0,
+            "Tag": 5,
+            "ActionTag": -388267490,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_reward014.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_reward014.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_reward014.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 176,
+            "Scale9Height": 61,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 720.0,
+              "Y": 222.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5625,
+              "Y": 0.3083
+            },
+            "PreSize": {
+              "X": 0.1609,
+              "Y": 0.1153
+            },
+            "LeftMargin": 617.0,
+            "RightMargin": 457.0,
+            "TopMargin": 456.5,
+            "BottomMargin": 180.5,
+            "Tag": 6,
+            "ActionTag": 1750204308,
+            "Size": {
+              "X": 206.0,
+              "Y": 83.0
+            },
+            "Name": "submitBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 90,
+            "LabelText": "1",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 106,
+              "G": 71,
+              "B": 151
+            },
+            "ShadowOffsetX": 3.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 695.9983,
+              "Y": 351.9985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 4.0004,
+            "CColor": {
+              "G": 216,
+              "B": 2
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5437,
+              "Y": 0.4889
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.1389
+            },
+            "LeftMargin": 645.9983,
+            "RightMargin": 534.0017,
+            "TopMargin": 318.0015,
+            "BottomMargin": 301.9985,
+            "Tag": 10,
+            "ActionTag": -1192616642,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_reward007.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 766.5,
+              "Y": 342.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5988,
+              "Y": 0.475
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0653
+            },
+            "LeftMargin": 740.5,
+            "RightMargin": 487.5,
+            "TopMargin": 354.5,
+            "BottomMargin": 318.5,
+            "Tag": 6,
+            "ActionTag": -1307705945,
+            "Size": {
+              "X": 52.0,
+              "Y": 47.0
+            },
+            "Name": "hall_reward007_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "hall_common036.png",
+        "hall_reward000.png",
+        "hall_reward007.png",
+        "hall_reward014.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

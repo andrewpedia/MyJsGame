@@ -1,0 +1,7 @@
+{
+    "packageUrl" : "http://082.fa256.cn:82/release/plaza/assets/",
+    "remoteVersionUrl" : "http://082.fa256.cn:82/release/plaza/version.manifest",
+    "remoteManifestUrl" : "http://082.fa256.cn:82/release/plaza/project.manifest",
+    "version" : "2.1.26",
+    "engineVersion" : "Cocos2d-JS v3.15"
+}

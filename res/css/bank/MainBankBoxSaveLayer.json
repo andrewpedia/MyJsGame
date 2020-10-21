@@ -1,0 +1,543 @@
+{
+  "ID": "d4c110ff-f0e3-4dd2-8d4b-1441a3d201ff",
+  "Version": "3.10.0.0",
+  "Name": "MainBankBoxSaveLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 49,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bk_info_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 294.0,
+              "Y": 434.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4949,
+              "Y": 0.8378
+            },
+            "PreSize": {
+              "X": 0.7576,
+              "Y": 0.2413
+            },
+            "LeftMargin": 69.0,
+            "RightMargin": 75.0,
+            "TopMargin": 21.5,
+            "BottomMargin": 371.5,
+            "Tag": 51,
+            "ActionTag": -1874238179,
+            "Size": {
+              "X": 450.0,
+              "Y": 125.0
+            },
+            "Name": "bk_info_bg_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bk_txt_svnum.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 296.0,
+              "Y": 242.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4983,
+              "Y": 0.4672
+            },
+            "PreSize": {
+              "X": 0.9899,
+              "Y": 0.3263
+            },
+            "LeftMargin": 2.0,
+            "RightMargin": 4.0,
+            "TopMargin": 191.5,
+            "BottomMargin": 157.5,
+            "Tag": 52,
+            "ActionTag": -760632620,
+            "Size": {
+              "X": 588.0,
+              "Y": 169.0
+            },
+            "Name": "bk_txt_svnum_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 28,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "请输入或拖选存取金额",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 186.0,
+              "Y": 281.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3131,
+              "Y": 0.5425
+            },
+            "PreSize": {
+              "X": 0.4781,
+              "Y": 0.0676
+            },
+            "LeftMargin": 186.0,
+            "RightMargin": 124.0,
+            "TopMargin": 219.5,
+            "BottomMargin": 263.5,
+            "Tag": 55,
+            "ActionTag": -299604215,
+            "Size": {
+              "X": 284.0,
+              "Y": 35.0
+            },
+            "Name": "saveTf",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "close_rect.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close_rect.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close_rect.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 46,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 506.0,
+              "Y": 274.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8519,
+              "Y": 0.529
+            },
+            "PreSize": {
+              "X": 0.1279,
+              "Y": 0.1467
+            },
+            "LeftMargin": 468.0,
+            "RightMargin": 50.0,
+            "TopMargin": 206.0,
+            "BottomMargin": 236.0,
+            "Tag": 57,
+            "ActionTag": -1776851458,
+            "Size": {
+              "X": 76.0,
+              "Y": 76.0
+            },
+            "Name": "delBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "Normal",
+              "Path": "bk_progressBg.png",
+              "Plist": ""
+            },
+            "ProgressBarData": {
+              "Type": "Normal",
+              "Path": "bk_progressing.png",
+              "Plist": ""
+            },
+            "BallNormalData": {
+              "Type": "Normal",
+              "Path": "bk_thumb.png",
+              "Plist": ""
+            },
+            "BallPressedData": {
+              "Type": "Normal",
+              "Path": "bk_thumb.png",
+              "Plist": ""
+            },
+            "BallDisabledData": {
+              "Type": "Normal",
+              "Path": "bk_thumb.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 255.0,
+              "Y": 202.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4293,
+              "Y": 0.39
+            },
+            "PreSize": {
+              "X": 0.7357,
+              "Y": 0.056
+            },
+            "LeftMargin": 36.5,
+            "RightMargin": 120.5,
+            "TopMargin": 301.5,
+            "BottomMargin": 187.5,
+            "Tag": 58,
+            "ActionTag": 1752513934,
+            "Size": {
+              "X": 437.0,
+              "Y": 29.0
+            },
+            "Name": "slider",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "bk_txt_max.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bk_txt_max.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bk_txt_max.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 81,
+            "Scale9Height": 39,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.0,
+              "Y": 196.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8872,
+              "Y": 0.3784
+            },
+            "PreSize": {
+              "X": 0.1869,
+              "Y": 0.1178
+            },
+            "LeftMargin": 471.5,
+            "RightMargin": 11.5,
+            "TopMargin": 291.5,
+            "BottomMargin": 165.5,
+            "Tag": 59,
+            "ActionTag": -1719513504,
+            "Size": {
+              "X": 111.0,
+              "Y": 61.0
+            },
+            "Name": "maxBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_common020.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_common020.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_common020.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 176,
+            "Scale9Height": 62,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 281.0,
+              "Y": 65.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4731,
+              "Y": 0.1255
+            },
+            "PreSize": {
+              "X": 0.3468,
+              "Y": 0.1622
+            },
+            "LeftMargin": 178.0,
+            "RightMargin": 210.0,
+            "TopMargin": 411.0,
+            "BottomMargin": 23.0,
+            "Tag": 60,
+            "ActionTag": -376079286,
+            "Size": {
+              "X": 206.0,
+              "Y": 84.0
+            },
+            "Name": "submitBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "0.00",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "number_win.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 402.0,
+              "Y": 464.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6768,
+              "Y": 0.8967
+            },
+            "PreSize": {
+              "X": 0.1397,
+              "Y": 0.0772
+            },
+            "LeftMargin": 360.5,
+            "RightMargin": 150.5,
+            "TopMargin": 33.5,
+            "BottomMargin": 444.5,
+            "Tag": 62,
+            "ActionTag": -1267540787,
+            "Size": {
+              "X": 83.0,
+              "Y": 40.0
+            },
+            "Name": "curGoldLabel",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0.00",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "number_win.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 402.0,
+              "Y": 390.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6768,
+              "Y": 0.7539
+            },
+            "PreSize": {
+              "X": 0.1397,
+              "Y": 0.0772
+            },
+            "LeftMargin": 360.5,
+            "RightMargin": 150.5,
+            "TopMargin": 107.5,
+            "BottomMargin": 370.5,
+            "Tag": 63,
+            "ActionTag": 1017516267,
+            "Size": {
+              "X": 83.0,
+              "Y": 40.0
+            },
+            "Name": "reGoldLabel",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Size": {
+          "X": 594.0,
+          "Y": 518.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bk_info_bg.png",
+        "bk_progressBg.png",
+        "bk_progressing.png",
+        "bk_thumb.png",
+        "bk_txt_max.png",
+        "bk_txt_svnum.png",
+        "close_rect.png",
+        "hall_common020.png",
+        "number_win.fnt",
+        "number_win.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

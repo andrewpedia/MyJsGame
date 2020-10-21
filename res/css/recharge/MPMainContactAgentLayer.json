@@ -1,0 +1,511 @@
+{
+  "ID": "8167ea34-1a00-423f-905a-03f6ed327fd0",
+  "Version": "3.10.0.0",
+  "Name": "MPMainContactAgentLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 190,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "small_tab_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 191,
+            "ActionTag": 1399580394,
+            "Size": {
+              "X": 540.0,
+              "Y": 483.0
+            },
+            "Name": "small_tab_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 55,
+            "Scale9Height": 63,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 528.4971,
+              "Y": 466.9896
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9787,
+              "Y": 0.9669
+            },
+            "PreSize": {
+              "X": 0.1574,
+              "Y": 0.176
+            },
+            "LeftMargin": 485.9971,
+            "RightMargin": -30.9971,
+            "TopMargin": -26.4896,
+            "BottomMargin": 424.4896,
+            "Tag": 192,
+            "ActionTag": -821860924,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "contact_title.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.0001,
+              "Y": 442.9967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9172
+            },
+            "PreSize": {
+              "X": 0.3093,
+              "Y": 0.0952
+            },
+            "LeftMargin": 186.5001,
+            "RightMargin": 186.4999,
+            "TopMargin": 17.0033,
+            "BottomMargin": 419.9967,
+            "Tag": 193,
+            "ActionTag": 870049131,
+            "Size": {
+              "X": 167.0,
+              "Y": 46.0
+            },
+            "Name": "contact_title_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "pf_btn_wx.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "pf_btn_wx.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "pf_btn_wx.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 281,
+            "Scale9Height": 71,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 269.9995,
+              "Y": 209.0004
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4327
+            },
+            "PreSize": {
+              "X": 0.5759,
+              "Y": 0.1925
+            },
+            "LeftMargin": 114.4995,
+            "RightMargin": 114.5005,
+            "TopMargin": 227.4996,
+            "BottomMargin": 162.5004,
+            "Tag": 194,
+            "ActionTag": -1710894683,
+            "Size": {
+              "X": 311.0,
+              "Y": 93.0
+            },
+            "Name": "copyBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "detail_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 271.9937,
+              "Y": 94.0007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5037,
+              "Y": 0.1946
+            },
+            "PreSize": {
+              "X": 0.9741,
+              "Y": 0.2464
+            },
+            "LeftMargin": 8.9937,
+            "RightMargin": 5.0062,
+            "TopMargin": 329.4993,
+            "BottomMargin": 34.5007,
+            "Tag": 196,
+            "ActionTag": -793171257,
+            "Size": {
+              "X": 526.0,
+              "Y": 119.0
+            },
+            "Name": "detail_bg_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 26,
+            "LabelText": "娜娜官方秒从（支持花呗信用卡）",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.0,
+              "Y": 364.9944
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 15,
+              "G": 232,
+              "B": 216
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7557
+            },
+            "PreSize": {
+              "X": 0.7222,
+              "Y": 0.0642
+            },
+            "LeftMargin": 75.0,
+            "RightMargin": 75.0,
+            "TopMargin": 102.5056,
+            "BottomMargin": 349.4944,
+            "Tag": 197,
+            "ActionTag": -1287061931,
+            "Size": {
+              "X": 390.0,
+              "Y": 31.0
+            },
+            "Name": "descLabel",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "pf_icon_wx.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 16,
+            "Scale9OriginY": 17,
+            "Scale9Width": 17,
+            "Scale9Height": 18,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 160.0,
+              "Y": 285.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2963,
+              "Y": 0.5901
+            },
+            "PreSize": {
+              "X": 0.0907,
+              "Y": 0.1077
+            },
+            "LeftMargin": 135.5,
+            "RightMargin": 355.5,
+            "TopMargin": 172.0,
+            "BottomMargin": 259.0,
+            "Tag": 198,
+            "ActionTag": -519915050,
+            "Size": {
+              "X": 49.0,
+              "Y": 52.0
+            },
+            "Name": "flagImageView",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "h111111111111",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 203.9997,
+              "Y": 284.9985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3778,
+              "Y": 0.5901
+            },
+            "PreSize": {
+              "X": 0.2852,
+              "Y": 0.058
+            },
+            "LeftMargin": 203.9997,
+            "RightMargin": 182.0003,
+            "TopMargin": 184.0015,
+            "BottomMargin": 270.9985,
+            "Tag": 199,
+            "ActionTag": 1883224027,
+            "Size": {
+              "X": 154.0,
+              "Y": 28.0
+            },
+            "Name": "accountLabel",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "点击按钮后，系统会帮你复制代理的微信号或\nQQ号，\n3秒后自动跳转至微信或QQ，添加好友时长按屏\n幕粘贴即可加完好友10秒内帮您完成充值",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 269.9891,
+              "Y": 90.9982
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1884
+            },
+            "PreSize": {
+              "X": 0.963,
+              "Y": 0.2381
+            },
+            "LeftMargin": 9.9891,
+            "RightMargin": 10.0109,
+            "TopMargin": 334.5018,
+            "BottomMargin": 33.4982,
+            "Tag": 200,
+            "ActionTag": -324657221,
+            "Size": {
+              "X": 520.0,
+              "Y": 115.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 540.0,
+          "Y": 483.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "close.png",
+        "contact_title.png",
+        "detail_bg.png",
+        "pf_btn_wx.png",
+        "pf_icon_wx.png",
+        "small_tab_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

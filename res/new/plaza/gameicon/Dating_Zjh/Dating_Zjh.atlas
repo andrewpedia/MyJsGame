@@ -1,0 +1,34 @@
+
+Dating_Zjh.png
+size: 686,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: false
+  xy: 344, 107
+  size: 190, 195
+  orig: 190, 195
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: false
+  xy: 536, 152
+  size: 148, 150
+  orig: 148, 150
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 2
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: false
+  xy: 344, 8
+  size: 199, 97
+  orig: 199, 97
+  offset: 0, 0
+  index: -1

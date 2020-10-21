@@ -1,0 +1,97 @@
+
+DATING_CZ.png
+size: 2677,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/aniu1
+  rotate: false
+  xy: 944, 41
+  size: 431, 123
+  orig: 431, 123
+  offset: 0, 0
+  index: -1
+images/anniu
+  rotate: false
+  xy: 2, 2
+  size: 469, 162
+  orig: 469, 162
+  offset: 0, 0
+  index: -1
+images/anniu_guang
+  rotate: false
+  xy: 473, 2
+  size: 469, 162
+  orig: 469, 162
+  offset: 0, 0
+  index: -1
+images/jb1
+  rotate: false
+  xy: 1514, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb2
+  rotate: false
+  xy: 1651, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb3
+  rotate: false
+  xy: 1788, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb4
+  rotate: false
+  xy: 1925, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb5
+  rotate: false
+  xy: 2062, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb6
+  rotate: false
+  xy: 2199, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb7
+  rotate: false
+  xy: 2336, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb8
+  rotate: false
+  xy: 2473, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jb9
+  rotate: false
+  xy: 1377, 23
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+images/jbyy
+  rotate: true
+  xy: 2610, 10
+  size: 154, 65
+  orig: 154, 65
+  offset: 0, 0
+  index: -1

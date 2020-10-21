@@ -1,0 +1,118 @@
+
+Dating_xinyou.png
+size: 2042,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: false
+  xy: 2, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h10
+  rotate: false
+  xy: 1190, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h11
+  rotate: false
+  xy: 1322, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h12
+  rotate: false
+  xy: 1454, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h13
+  rotate: false
+  xy: 1586, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h14
+  rotate: false
+  xy: 1718, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h15
+  rotate: false
+  xy: 1850, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 134, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 266, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 398, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h5
+  rotate: false
+  xy: 530, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h6
+  rotate: false
+  xy: 662, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 794, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h8
+  rotate: false
+  xy: 926, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+h9
+  rotate: false
+  xy: 1058, 2
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+xinyou
+  rotate: true
+  xy: 1982, 46
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1

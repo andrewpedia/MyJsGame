@@ -1,0 +1,34 @@
+
+Dating_ddz.png
+size: 580,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: false
+  xy: 344, 123
+  size: 145, 179
+  orig: 145, 179
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: true
+  xy: 344, 23
+  size: 98, 126
+  orig: 98, 126
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 2
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: true
+  xy: 491, 105
+  size: 197, 87
+  orig: 197, 87
+  offset: 0, 0
+  index: -1

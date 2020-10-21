@@ -1,0 +1,13 @@
+
+Tuij.png
+size: 110,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuij
+  rotate: false
+  xy: 2, 2
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1

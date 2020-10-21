@@ -1,0 +1,19 @@
+info face="CN Normal" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=44 base=25 scaleW=500 scaleH=150 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="activity_levle_0.png"
+chars count=14
+char id=19968 x=0     y=0     width=45    height=44    xoffset=0     yoffset=0     xadvance=45    page=0  chnl=15
+char id=19971 x=230   y=0     width=44    height=44    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=19977 x=365   y=0     width=43    height=44    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=20061 x=46    y=0     width=45    height=44    xoffset=0     yoffset=0     xadvance=45    page=0  chnl=15
+char id=20108 x=409   y=0     width=43    height=44    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=20116 x=92    y=0     width=45    height=44    xoffset=0     yoffset=0     xadvance=45    page=0  chnl=15
+char id=20843 x=275   y=0     width=44    height=44    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=20845 x=453   y=0     width=43    height=44    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=22235 x=88    y=45    width=41    height=44    xoffset=0     yoffset=0     xadvance=41    page=0  chnl=15
+char id=22870 x=0     y=45    width=43    height=44    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=24184 x=138   y=0     width=45    height=44    xoffset=0     yoffset=0     xadvance=45    page=0  chnl=15
+char id=29305 x=184   y=0     width=45    height=44    xoffset=0     yoffset=0     xadvance=45    page=0  chnl=15
+char id=31561 x=44    y=45    width=43    height=44    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=36816 x=320   y=0     width=44    height=44    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+kernings count=0

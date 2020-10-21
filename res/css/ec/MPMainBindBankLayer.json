@@ -1,0 +1,672 @@
+{
+  "ID": "29cbcd6e-4394-42c0-ac03-c0ca2a4a4c3d",
+  "Version": "3.10.0.0",
+  "Name": "MPMainBindBankLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_bg_common_540x483.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0002,
+              "Y": 0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0002,
+            "RightMargin": -0.0002,
+            "TopMargin": -0.0001,
+            "BottomMargin": 0.0001,
+            "Tag": 29,
+            "ActionTag": -1795013217,
+            "Size": {
+              "X": 540.0,
+              "Y": 483.0
+            },
+            "Name": "small_tab_bg_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_common036.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 40,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.542,
+              "Y": 449.5434
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9769,
+              "Y": 0.9307
+            },
+            "PreSize": {
+              "X": 0.1296,
+              "Y": 0.1449
+            },
+            "LeftMargin": 492.542,
+            "RightMargin": -22.542,
+            "TopMargin": -1.5434,
+            "BottomMargin": 414.5434,
+            "Tag": 30,
+            "ActionTag": -2100006648,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "input_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 36,
+            "Scale9OriginY": 18,
+            "Scale9Width": 39,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 198.1537,
+              "Y": 352.1814
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.367,
+              "Y": 0.7292
+            },
+            "PreSize": {
+              "X": 0.5837,
+              "Y": 0.1159
+            },
+            "LeftMargin": 198.1537,
+            "RightMargin": 26.6406,
+            "TopMargin": 102.8186,
+            "BottomMargin": 324.1814,
+            "Tag": 32,
+            "ActionTag": 476536502,
+            "Size": {
+              "X": 315.2057,
+              "Y": 56.0
+            },
+            "Name": "nameBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "姓名",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 146.172,
+              "Y": 350.0308
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 7,
+              "G": 237,
+              "B": 246
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2707,
+              "Y": 0.7247
+            },
+            "PreSize": {
+              "X": 0.1037,
+              "Y": 0.0663
+            },
+            "LeftMargin": 118.172,
+            "RightMargin": 365.828,
+            "TopMargin": 116.9692,
+            "BottomMargin": 334.0308,
+            "Tag": 33,
+            "ActionTag": -2016243131,
+            "Size": {
+              "X": 56.0,
+              "Y": 32.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "input_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 36,
+            "Scale9OriginY": 18,
+            "Scale9Width": 39,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 198.3738,
+              "Y": 284.3473
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3674,
+              "Y": 0.5887
+            },
+            "PreSize": {
+              "X": 0.5837,
+              "Y": 0.1159
+            },
+            "LeftMargin": 198.3738,
+            "RightMargin": 26.4205,
+            "TopMargin": 170.6527,
+            "BottomMargin": 256.3473,
+            "Tag": 36,
+            "ActionTag": 436117544,
+            "Size": {
+              "X": 315.2057,
+              "Y": 56.0
+            },
+            "Name": "accountBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "银行卡账号",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 174.3934,
+              "Y": 282.1999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 7,
+              "G": 237,
+              "B": 246
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.323,
+              "Y": 0.5843
+            },
+            "PreSize": {
+              "X": 0.2593,
+              "Y": 0.0663
+            },
+            "LeftMargin": 34.3934,
+            "RightMargin": 365.6066,
+            "TopMargin": 184.8001,
+            "BottomMargin": 266.1999,
+            "Tag": 37,
+            "ActionTag": 1466152705,
+            "Size": {
+              "X": 140.0,
+              "Y": 32.0
+            },
+            "Name": "Text_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bank_content.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.8458,
+              "Y": 180.7224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.1961
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.3742
+            },
+            "PreSize": {
+              "X": 0.9722,
+              "Y": 0.2112
+            },
+            "LeftMargin": 8.3458,
+            "RightMargin": 6.6542,
+            "TopMargin": 251.2776,
+            "BottomMargin": 129.7224,
+            "Tag": 38,
+            "ActionTag": 1411070859,
+            "Size": {
+              "X": 525.0,
+              "Y": 102.0
+            },
+            "Name": "bank_content_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "请务必使用储蓄卡，不要使用信用卡，信用卡无法正常收款",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 256.9948,
+              "Y": 192.1036
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4759,
+              "Y": 0.3977
+            },
+            "PreSize": {
+              "X": 0.8667,
+              "Y": 0.0435
+            },
+            "LeftMargin": 22.9948,
+            "RightMargin": 49.0052,
+            "TopMargin": 280.3964,
+            "BottomMargin": 181.6036,
+            "Tag": 39,
+            "ActionTag": 2099011852,
+            "Size": {
+              "X": 468.0,
+              "Y": 21.0
+            },
+            "Name": "Text_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 18,
+            "LabelText": "请输入正确的银行卡账号以及持卡人姓名，否则会导致兑换失败哦~",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 22.3022,
+              "Y": 141.7245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 7,
+              "G": 237,
+              "B": 246
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0413,
+              "Y": 0.2934
+            },
+            "PreSize": {
+              "X": 0.9303,
+              "Y": 0.1099
+            },
+            "LeftMargin": 22.3022,
+            "RightMargin": 15.3333,
+            "TopMargin": 314.7288,
+            "BottomMargin": 115.1777,
+            "Tag": 40,
+            "ActionTag": 446654758,
+            "Size": {
+              "X": 502.3645,
+              "Y": 53.0935
+            },
+            "Name": "Text_1_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "hall_bind_zfb009.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hall_bind_zfb009.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hall_bind_zfb009.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 176,
+            "Scale9Height": 61,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.0007,
+              "Y": 71.8756
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1488
+            },
+            "PreSize": {
+              "X": 0.3815,
+              "Y": 0.1718
+            },
+            "LeftMargin": 167.0007,
+            "RightMargin": 166.9993,
+            "TopMargin": 369.6244,
+            "BottomMargin": 30.3756,
+            "Tag": 66,
+            "ActionTag": 40801082,
+            "Size": {
+              "X": 206.0,
+              "Y": 83.0
+            },
+            "Name": "submitBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hall_bind_bank001.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 71,
+            "Scale9OriginY": 15,
+            "Scale9Width": 86,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.0,
+              "Y": 429.81
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8899
+            },
+            "PreSize": {
+              "X": 0.4222,
+              "Y": 0.1035
+            },
+            "LeftMargin": 156.0,
+            "RightMargin": 156.0,
+            "TopMargin": 28.19,
+            "BottomMargin": 404.81,
+            "Tag": 68,
+            "ActionTag": 1598143967,
+            "Size": {
+              "X": 228.0,
+              "Y": 50.0
+            },
+            "Name": "titleSprite",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "请仔细填写绑定帐号信息，绑定后不可更改",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 194.0,
+              "Y": 226.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.4679
+            },
+            "PreSize": {
+              "X": 0.6333,
+              "Y": 0.0435
+            },
+            "LeftMargin": 23.0,
+            "RightMargin": 175.0,
+            "TopMargin": 246.5,
+            "BottomMargin": 215.5,
+            "Tag": 54,
+            "ActionTag": -1099372089,
+            "Size": {
+              "X": 342.0,
+              "Y": 21.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 540.0,
+          "Y": 483.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bank_content.png",
+        "hall_bg_common_540x483.png",
+        "hall_bind_bank001.png",
+        "hall_bind_zfb009.png",
+        "hall_common036.png",
+        "input_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

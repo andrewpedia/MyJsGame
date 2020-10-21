@@ -1,0 +1,667 @@
+{
+  "ID": "a7d48ffb-fc66-4133-9726-2ce54c794a40",
+  "Version": "3.10.0.0",
+  "Name": "MainSignPhoneLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 25,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "small_tab_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 26,
+            "ActionTag": 162752898,
+            "Size": {
+              "X": 540.0,
+              "Y": 483.0
+            },
+            "Name": "small_tab_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 55,
+            "Scale9Height": 63,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 514.0,
+              "Y": 455.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9519,
+              "Y": 0.9431
+            },
+            "PreSize": {
+              "X": 0.1574,
+              "Y": 0.176
+            },
+            "LeftMargin": 471.5,
+            "RightMargin": -16.5,
+            "TopMargin": -15.0,
+            "BottomMargin": 413.0,
+            "Tag": 27,
+            "ActionTag": 424884359,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "验证手机安全",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 273.0,
+              "Y": 446.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5056,
+              "Y": 0.9244
+            },
+            "PreSize": {
+              "X": 0.4,
+              "Y": 0.087
+            },
+            "LeftMargin": 165.0,
+            "RightMargin": 159.0,
+            "TopMargin": 15.5,
+            "BottomMargin": 425.5,
+            "Tag": 28,
+            "ActionTag": -2017243930,
+            "Size": {
+              "X": 216.0,
+              "Y": 42.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "安全手机",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 153.0,
+              "Y": 347.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2833,
+              "Y": 0.7195
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.058
+            },
+            "LeftMargin": 57.0,
+            "RightMargin": 387.0,
+            "TopMargin": 121.5,
+            "BottomMargin": 333.5,
+            "Tag": 30,
+            "ActionTag": 2115651396,
+            "Size": {
+              "X": 96.0,
+              "Y": 28.0
+            },
+            "Name": "Text_4_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "input_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 336.0,
+              "Y": 345.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6222,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.5593,
+              "Y": 0.1325
+            },
+            "LeftMargin": 185.0,
+            "RightMargin": 53.0,
+            "TopMargin": 105.5,
+            "BottomMargin": 313.5,
+            "Tag": 31,
+            "ActionTag": -62970564,
+            "Size": {
+              "X": 302.0,
+              "Y": 64.0
+            },
+            "Name": "input_bg_3_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "请输入手机号",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 11,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 210.5,
+              "Y": 345.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3898,
+              "Y": 0.7143
+            },
+            "PreSize": {
+              "X": 0.4685,
+              "Y": 0.0559
+            },
+            "LeftMargin": 210.5,
+            "RightMargin": 76.5,
+            "TopMargin": 124.5,
+            "BottomMargin": 331.5,
+            "Tag": 29,
+            "ActionTag": -739737022,
+            "Size": {
+              "X": 253.0,
+              "Y": 27.0
+            },
+            "Name": "tf_2",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "验证码",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 153.0,
+              "Y": 247.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2833,
+              "Y": 0.5124
+            },
+            "PreSize": {
+              "X": 0.1333,
+              "Y": 0.058
+            },
+            "LeftMargin": 81.0,
+            "RightMargin": 387.0,
+            "TopMargin": 221.5,
+            "BottomMargin": 233.5,
+            "Tag": 33,
+            "ActionTag": -373613143,
+            "Size": {
+              "X": 72.0,
+              "Y": 28.0
+            },
+            "Name": "Text_4_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "input_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 336.0,
+              "Y": 245.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6222,
+              "Y": 0.5083
+            },
+            "PreSize": {
+              "X": 0.5593,
+              "Y": 0.1325
+            },
+            "LeftMargin": 185.0,
+            "RightMargin": 53.0,
+            "TopMargin": 205.5,
+            "BottomMargin": 213.5,
+            "Tag": 34,
+            "ActionTag": 1811026882,
+            "Size": {
+              "X": 302.0,
+              "Y": 64.0
+            },
+            "Name": "input_bg_3_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "请输入验证码",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 210.5,
+              "Y": 245.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3898,
+              "Y": 0.5072
+            },
+            "PreSize": {
+              "X": 0.4685,
+              "Y": 0.0559
+            },
+            "LeftMargin": 210.5,
+            "RightMargin": 76.5,
+            "TopMargin": 224.5,
+            "BottomMargin": 231.5,
+            "Tag": 32,
+            "ActionTag": 988174440,
+            "Size": {
+              "X": 253.0,
+              "Y": 27.0
+            },
+            "Name": "tf_2_0",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "prs_btn_sms_g.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "prs_btn_sms_g.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 91,
+            "Scale9Height": 23,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 424.0,
+              "Y": 172.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7852,
+              "Y": 0.3561
+            },
+            "PreSize": {
+              "X": 0.2241,
+              "Y": 0.0932
+            },
+            "LeftMargin": 363.5,
+            "RightMargin": 55.5,
+            "TopMargin": 288.5,
+            "BottomMargin": 149.5,
+            "Tag": 37,
+            "ActionTag": -1221640213,
+            "Size": {
+              "X": 121.0,
+              "Y": 45.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "验证",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "common_btn_yellow_small.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "common_btn_yellow_small.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 201,
+            "Scale9Height": 85,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 273.5,
+              "Y": 88.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5065,
+              "Y": 0.1822
+            },
+            "PreSize": {
+              "X": 0.4278,
+              "Y": 0.2215
+            },
+            "LeftMargin": 158.0,
+            "RightMargin": 151.0,
+            "TopMargin": 341.5,
+            "BottomMargin": 34.5,
+            "Tag": 38,
+            "ActionTag": -406283158,
+            "Size": {
+              "X": 231.0,
+              "Y": 107.0
+            },
+            "Name": "submitBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "60s",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.0,
+              "Y": 173.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.887,
+              "Y": 0.3582
+            },
+            "PreSize": {
+              "X": 0.0611,
+              "Y": 0.0476
+            },
+            "LeftMargin": 446.0,
+            "RightMargin": 61.0,
+            "TopMargin": 298.5,
+            "BottomMargin": 161.5,
+            "Tag": 39,
+            "ActionTag": 1856260702,
+            "Size": {
+              "X": 33.0,
+              "Y": 23.0
+            },
+            "VisibleForFrame": false,
+            "Name": "timeLabel",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 540.0,
+          "Y": 483.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "close.png",
+        "common_btn_yellow_small.png",
+        "Default/Button_Disable.png",
+        "input_bg.png",
+        "prs_btn_sms_g.png",
+        "small_tab_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

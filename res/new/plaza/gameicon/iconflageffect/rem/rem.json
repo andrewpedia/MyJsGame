@@ -1,0 +1,29 @@
+{
+"skeleton": { "hash": "mvoR2BnojbO2l8hNyVET391IS1Y", "spine": "3.6.52", "width": 106, "height": 93, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "tuij", "bone": "root", "attachment": "RM" }
+],
+"skins": {
+	"default": {
+		"tuij": {
+			"RM": { "width": 106, "height": 93 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 0.8, "y": 0.8 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

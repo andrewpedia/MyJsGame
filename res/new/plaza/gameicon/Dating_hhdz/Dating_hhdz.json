@@ -1,0 +1,102 @@
+{
+"skeleton": { "hash": "0jNcGQW/4IJmbEZRk7IT/b82SbQ", "spine": "3.6.53", "width": 340, "height": 300, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "BG", "parent": "root" },
+	{ "name": "renwi_2", "parent": "root", "length": 138.26, "rotation": 88.75, "x": 66.63, "y": -16.1, "scaleX": 0.7, "scaleY": 0.7 },
+	{ "name": "renwi_3", "parent": "root", "x": 28.88, "y": -27.4, "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "renwu_1", "parent": "root", "rotation": 90.27, "x": -78.97, "y": 38.02, "scaleX": 0.73, "scaleY": 0.73 },
+	{ "name": "wenzi", "parent": "root", "x": -2.01, "y": -66.33 }
+],
+"slots": [
+	{ "name": "images/ZJh_bg", "bone": "BG", "attachment": "images/ZJh_bg" },
+	{ "name": "images/ZJh_RW2", "bone": "renwi_2", "attachment": "images/ZJh_RW2" },
+	{ "name": "images/ZJh_RW", "bone": "renwu_1", "attachment": "images/ZJh_RW" },
+	{ "name": "images/rw3", "bone": "renwi_3", "attachment": "images/rw3" },
+	{ "name": "images/ZJh_wenzi", "bone": "wenzi", "attachment": "images/ZJh_wenzi" }
+],
+"skins": {
+	"default": {
+		"images/ZJh_RW": {
+			"images/ZJh_RW": { "x": -18.21, "y": -63.41, "rotation": -90.27, "width": 202, "height": 261 }
+		},
+		"images/ZJh_RW2": {
+			"images/ZJh_RW2": { "x": 51.32, "y": 43.23, "rotation": -88.75, "width": 250, "height": 218 }
+		},
+		"images/ZJh_bg": {
+			"images/ZJh_bg": { "width": 340, "height": 300 }
+		},
+		"images/ZJh_wenzi": {
+			"images/ZJh_wenzi": { "y": 3.53, "width": 191, "height": 92 }
+		},
+		"images/rw3": {
+			"images/rw3": { "x": -4.25, "y": 5.94, "width": 91, "height": 86 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"images/ZJh_RW2": {
+				"attachment": [
+					{ "time": 0, "name": "images/ZJh_RW2" },
+					{ "time": 2.6667, "name": "images/ZJh_RW2" }
+				]
+			}
+		},
+		"bones": {
+			"renwu_1": {
+				"rotate": [
+					{ "time": 0, "angle": 0.93 },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 2.6667, "angle": 0.93 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -2 },
+					{ "time": 1.3333, "x": 0.01, "y": -6 },
+					{ "time": 2.6667, "x": 0, "y": -2 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1.04, "y": 1.04 },
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				]
+			},
+			"renwi_2": {
+				"rotate": [
+					{ "time": 0, "angle": -3.6, "curve": "stepped" },
+					{ "time": 2.6667, "angle": -3.6 }
+				],
+				"translate": [
+					{ "time": 0, "x": -6.53, "y": -6.84 },
+					{ "time": 1, "x": -7.21, "y": -14.81, "curve": "stepped" },
+					{ "time": 1.3333, "x": -7.21, "y": -14.81, "curve": "stepped" },
+					{ "time": 1.6667, "x": -7.21, "y": -14.81 },
+					{ "time": 2.6667, "x": -6.53, "y": -6.84 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1.03, "y": 1.03 },
+					{ "time": 1.6667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				]
+			},
+			"renwi_3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.6667, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0.9, "y": 0.9 },
+					{ "time": 1.1667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,18 @@
+info face="CN Normal" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=24 base=25 scaleW=500 scaleH=500 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="showwinner_quan.png"
+chars count=13
+char id=32   x=0     y=25    width=1     height=1     xoffset=0     yoffset=25    xadvance=5     page=0  chnl=15
+char id=44   x=166   y=0     width=11    height=24    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=46   x=178   y=0     width=10    height=24    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=48   x=86    y=0     width=15    height=24    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=49   x=102   y=0     width=15    height=24    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=50   x=18    y=0     width=16    height=24    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=51   x=35    y=0     width=16    height=24    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=52   x=0     y=0     width=17    height=24    xoffset=0     yoffset=0     xadvance=17    page=0  chnl=15
+char id=53   x=52    y=0     width=16    height=24    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=54   x=69    y=0     width=16    height=24    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=55   x=118   y=0     width=15    height=24    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=56   x=134   y=0     width=15    height=24    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=57   x=150   y=0     width=15    height=24    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+kernings count=0

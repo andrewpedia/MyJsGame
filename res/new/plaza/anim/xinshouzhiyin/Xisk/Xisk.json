@@ -1,0 +1,34 @@
+{
+"skeleton": { "hash": "Z/MG+H2GNIb5d/xiHJ3stxsxN40", "spine": "3.6.52", "width": 934, "height": 376, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "kuang", "bone": "root", "attachment": "kuang" }
+],
+"skins": {
+	"default": {
+		"kuang": {
+			"kuang": { "width": 934, "height": 376 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.1, "y": 1.1 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

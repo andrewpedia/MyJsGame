@@ -1,0 +1,23 @@
+{
+  "project_type": "javascript",
+  "debugMode": 0,
+  "showFPS": false,
+  "frameRate": 45,
+  "noCache": true,
+  "id": "gameCanvas",
+  "renderMode": 0,
+  "engineDir": "frameworks/cocos2d-html5",
+  "modules": [
+    "cocos2d",
+    "gui",
+    "cocostudio",
+    "socketio",
+    "extensions"
+  ],
+  "jsList": [
+    "src/scene/MPAssetsHotUpdateScene.js"
+  ],
+  "runPlazaUpdate": true,
+  "runGamesUpdate": true,
+  "subGameRoot": ""
+}

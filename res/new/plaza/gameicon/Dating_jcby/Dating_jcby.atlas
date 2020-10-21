@@ -1,0 +1,34 @@
+
+Dating_jcby.png
+size: 599,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: false
+  xy: 513, 209
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: true
+  xy: 344, 96
+  size: 207, 167
+  orig: 207, 167
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 3
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: false
+  xy: 344, 2
+  size: 195, 92
+  orig: 195, 92
+  offset: 0, 0
+  index: -1

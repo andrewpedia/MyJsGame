@@ -1,0 +1,34 @@
+
+Dating_brnn.png
+size: 855,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: false
+  xy: 344, 53
+  size: 243, 261
+  orig: 243, 261
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: false
+  xy: 589, 96
+  size: 264, 218
+  orig: 264, 218
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 14
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: false
+  xy: 589, 2
+  size: 194, 92
+  orig: 194, 92
+  offset: 0, 0
+  index: -1

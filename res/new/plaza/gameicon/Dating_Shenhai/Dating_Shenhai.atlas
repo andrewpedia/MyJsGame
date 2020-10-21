@@ -1,0 +1,34 @@
+
+Dating_Shenhai.png
+size: 625,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: false
+  xy: 344, 131
+  size: 186, 179
+  orig: 186, 179
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: true
+  xy: 344, 2
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 10
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: true
+  xy: 532, 102
+  size: 208, 91
+  orig: 208, 91
+  offset: 0, 0
+  index: -1

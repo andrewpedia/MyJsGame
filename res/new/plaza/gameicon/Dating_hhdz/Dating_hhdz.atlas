@@ -1,0 +1,41 @@
+
+Dating_hhdz.png
+size: 845,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZJh_RW
+  rotate: true
+  xy: 564, 100
+  size: 202, 261
+  orig: 202, 261
+  offset: 0, 0
+  index: -1
+images/ZJh_RW2
+  rotate: true
+  xy: 344, 52
+  size: 250, 218
+  orig: 250, 218
+  offset: 0, 0
+  index: -1
+images/ZJh_bg
+  rotate: false
+  xy: 2, 2
+  size: 340, 300
+  orig: 340, 300
+  offset: 0, 0
+  index: -1
+images/ZJh_wenzi
+  rotate: false
+  xy: 564, 6
+  size: 191, 92
+  orig: 191, 92
+  offset: 0, 0
+  index: -1
+images/rw3
+  rotate: true
+  xy: 757, 7
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1

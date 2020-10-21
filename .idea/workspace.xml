@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8918bca7-394e-4b9b-a755-360731204a68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1i4WPVlBXqMWqiLYBjRJTuUPI1Q" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8918bca7-394e-4b9b-a755-360731204a68" name="Default Changelist" comment="" />
+      <created>1601167321302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601167321302</updated>
+      <workItem from="1601167322434" duration="14056000" />
+      <workItem from="1601540349095" duration="27000" />
+      <workItem from="1602414170449" duration="789000" />
+      <workItem from="1602763689759" duration="543000" />
+      <workItem from="1603236004272" duration="6748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601175546173">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="442" y="270" key="#com.intellij.fileTypes.FileTypeChooser/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601175546173" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1601173789342">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601173789342" />
+    <state x="491" y="249" width="817" height="574" key="find.popup" timestamp="1603245960459">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="491" y="249" width="817" height="574" key="find.popup/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1603245960459" />
+    <state x="421" y="216" width="598" height="490" key="find.popup/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601181353334" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1603283504554">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1603244500281" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603283504554" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601181363886" />
+  </component>
+</project>
