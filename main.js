@@ -107,23 +107,12 @@ cc.game.onStart = function() {
     cc.view.resizeWithBrowserSize(true);
 
     if (cc.game.config.runGamesUpdate) {
-        // console.log("runGamesUpdate.........")
-        // cc.Image.setPVRImagesHavePremultipliedAlpha(true);
-        // cc.loader.loadJs("src/scene/MPAssetsHotUpdateScene.js",function () {
-        //     console.log(MPAssetsHotUpdateScene)
         cc.loader.loadJs("src/MPJsFiles.js", function () {
-            console.log("loaded ... js files")
             cc.loader.loadJs(mpJsFiles, function () {
-                console.log("mpApp " + mpApp)
-                console.log("mpg_resources " + mpg_resources)
-
-                //load resources
-                // cc.LoaderScene.preload(mpg_resources, function () {
-                //     cc.director.runScene(new MPAssetsHotUpdateScene());
-                // }, this);
-                // })
-            })
-            // })
+                cc.LoaderScene.preload(mpg_resources, function () {
+                    cc.director.runScene(new MPAssetsHotUpdateScene());
+                }, this);
+                })
         })
     }
 }

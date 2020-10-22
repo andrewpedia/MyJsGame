@@ -151,11 +151,11 @@ var MPAssetsHotUpdateScene = cc.Scene.extend({
         ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
         this.percentHitLabel = new cc.LabelTTF("正在载入...", "宋体", 40);
-        this.percentHitLabel.setColor(cc.BLACK);
+        this.percentHitLabel.setColor(cc.color.BLACK);
         //this.percentHitLabel.setVisible(false);
         //this.percentByFileHitLabel = new cc.LabelTTF("", "宋体", 40);
         this.assetIDHitLabel = new cc.LabelTTF("", "宋体", 40);
-        this.assetIDHitLabel.setColor(cc.BLACK);
+        this.assetIDHitLabel.setColor(cc.color.BLACK);
         this.addChild(this.percentHitLabel);
 
 

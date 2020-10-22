@@ -1,0 +1,7 @@
+var GNativeInfo={
+
+    loginSceneType:"",
+
+
+
+}

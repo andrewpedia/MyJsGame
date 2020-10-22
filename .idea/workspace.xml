@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -58,7 +65,7 @@
       <workItem from="1601540349095" duration="27000" />
       <workItem from="1602414170449" duration="789000" />
       <workItem from="1602763689759" duration="543000" />
-      <workItem from="1603236004272" duration="6748000" />
+      <workItem from="1603236004272" duration="10775000" />
     </task>
     <servers />
   </component>
@@ -74,16 +81,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601173789342" />
-    <state x="491" y="249" width="817" height="574" key="find.popup" timestamp="1603245960459">
+    <state x="491" y="249" width="817" height="574" key="find.popup" timestamp="1603325415010">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="491" y="249" width="817" height="574" key="find.popup/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1603245960459" />
+    <state x="491" y="249" width="817" height="574" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603325415010" />
     <state x="421" y="216" width="598" height="490" key="find.popup/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601181353334" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1603283504554">
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1603324974100">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1603244500281" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603283504554" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603324974100" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/1440.-123.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601181363886" />
   </component>
 </project>

@@ -150,8 +150,8 @@ var web_resource = [
     "res/plaza/plaza.plist",
     "res/plaza/plaza.png",
 
-    "res/plaza/plaza2.plist",
-    "res/plaza/plaza2.png",
+    // "res/plaza/plaza2.plist",
+    // "res/plaza/plaza2.png",
 
     "res/newPlaza/newPlaza.plist",
     "res/newPlaza/newPlaza.png",
@@ -185,6 +185,19 @@ var web_resource = [
     "res/allcommon/common.png",
 	"res/comexit/comexit.plist",
     "res/comexit/comexit.png",
+
+    "res/images/nopack/spine_animation/login_girl/DLJM_Char.json",
+    "res/images/nopack/spine_animation/login_girl/DLJM_Char.png",
+    "res/images/nopack/spine_animation/login_girl/DLJM_Floor.json",
+    "res/images/nopack/spine_animation/login_girl/DLJM_Floor.png",
+    "res/images/nopack/spine_animation/login_girl/DLJM_Char.atlas",
+    "res/images/nopack/spine_animation/login_girl/DLJM_Floor.atlas",
+    "res/images/nopack/jinhai_logo.png",
+    "res/images/nopack/hall_bg_login.png",
+    "res/images/hall_common.plist",
+    "res/images/hall_common.png",
+
+
 ];
 
 var mpg_resources = [];

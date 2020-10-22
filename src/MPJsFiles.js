@@ -61,7 +61,7 @@ var mpJsFiles = [
     "src/scene/MPLoadingScene.js",
     "src/scene/MPBaseRoomScene.js",
     "src/net/NetUtil.js",
-
+    "src/MPGNativeInfo.js",
     "src/MPConfig.js",
     "src/MPDefine.js",
     "src/MPResource.js",
